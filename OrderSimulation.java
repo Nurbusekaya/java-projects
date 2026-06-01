@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class OrderSimulation {
     public static void main(String[] args) {
         System.out.println("=== WELCOME TO OUR SMART ORDERING SYSTEM ===");
         // Müşteri Bilgileri)
