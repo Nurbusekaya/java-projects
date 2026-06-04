@@ -2,18 +2,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import static java.lang.System.*;
-
 public class AsalCarpanlar {
     public static void main(String[] args) {
-
     }
-
-
     public static List<Integer> AsalCarpanlariBul(int sayi) {
         List<Integer> asalCarpanlar = new ArrayList<>();
 
-        
         while (sayi % 2 == 0) {
             asalCarpanlar.add(2);
             sayi /= 2;
@@ -41,9 +35,8 @@ public class AsalCarpanlar {
         List<Integer> asalCarpanlar = AsalCarpanlar;
         return asalCarpanlar;
 
-        // Örnek bir sayı
     }
-    System.out.println(ss )
+    System.out.println(sayi);
 
 }
 
